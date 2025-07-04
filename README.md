@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Kahory Neptaly Rita Landeros, tengo 24 años y soy Ingeniera en Sistemas Computacionales egresada del Tecnológico de Zacatepec. Actualmente estudio Ingeniería en Tecnologías de la Información e Innovación Digital en la UTEZ, dentro del área de Infraestructura de Redes Digitales.<br><br>Me gusta mucho el desarrollo de software web y disfruto seguir aprendiendo cada día. Tengo conocimientos en Java y siempre ando buscando mejorar mis habilidades y explorar nuevas tecnologías.<br><br>Aquí iré compartiendo algunos de mis proyectos, aprendizajes y cosas que me apasionan del mundo tech 🚀.
+¡Hola! Soy Kahory Neptaly Rita Landeros, tengo 24 años y soy Ingeniera en Sistemas Computacionales egresada del Tecnológico de Zacatepec. Actualmente estudio Ingeniería en Tecnologías de la Información e Innovación Digital en la UTEZ, dentro del área de Infraestructura de Redes Digitales.<br><br>Me gusta mucho el desarrollo de software web y disfruto seguir aprendiendo cada día. Tengo conocimientos en Java y siempre ando buscando mejorar mis habilidades y explorar nuevas tecnologías.<br><br>Aquí iré compartiendo algunos de mis proyectos, aprendizajes y cosas que me apasionan del mundo tech ❤️.
 
 
 ## 🌐 Socials:
